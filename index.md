@@ -1,2 +1,2 @@
 ##Navigation
-- [KQL Quiries](readme.md)
+- [KQL Quiries](https://github.com/bharath-785/KQL-Queries)
