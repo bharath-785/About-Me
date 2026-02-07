@@ -10,5 +10,9 @@ This site contains selected projects, case studies, and technical write-ups base
 - Vulnerability Management & Remediation
 - Security Risk & Compliance
 
-## Projects
-See the Projects section for detailed case studies and technical walkthroughs.
+##Navigation
+- [KQL Quiries](https://github.com/bharath-785/KQL-Queries)
+- [Vulnerability-Management-and-Remediation](https://github.com/bharath-785/Vulnerability-Management-and-Remediation)
+- [Cybersecurity-NewsCybersecurity-News](https://github.com/bharath-785/Cybersecurity-News)
+- [Master Project](https://github.com/bharath-785/Master--Projects-)
+- [Digital Forensic](https://github.com/bharath-785/Digital-Forensic-)
